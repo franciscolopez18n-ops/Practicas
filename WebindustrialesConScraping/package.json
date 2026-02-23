@@ -1,0 +1,14 @@
+{
+  "name": "webindustriales",
+  "version": "1.0.0",
+  "description": "pagina web para la UPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando y Paul",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
