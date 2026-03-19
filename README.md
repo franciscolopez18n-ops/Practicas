@@ -1,10 +1,1 @@
-# Practicas
-$sql = "SELECT m.*, r.nombre_rango 
-            FROM miembro m, Rango r 
-            WHERE 
-				m.rango = r.id_rango AND (
-                UPPER(REPLACE(REPLACE(CONCAT(m.nombre, ' ', m.apellidos), 
-							'&', ''), 
-                    		'acute;', '')) LIKE :text OR 
-				
-				UPPER(r.nombre_rango) LIKE :text)";
+https://drive.google.com/file/d/1m-yT1khlg5g3s16yy-bmrUcW5gpkhcJs/view?usp=sharing
