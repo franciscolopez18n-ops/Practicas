@@ -1,4 +1,4 @@
-
+LA COOKIE ES: PHPSESSID
 <?php    
         function marca_actual($nombrePagina, $paginaActual) {
             $resultado = '';
